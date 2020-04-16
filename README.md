@@ -11,7 +11,7 @@ https://github.com/cataspanglish/TUBES--a-game-of-the-Internet
 Get together the items below and then play the game following the original rules.
 
 
-## ESSENTIAL ITEMS: Paper, pens/ coloured pencils, scissors, a coin, dice
+** ESSENTIAL ITEMS: Paper, pens/ coloured pencils, scissors, a coin, dice**
 (get an adult to help you with cutting things with scissors!)
 
 If you have a printer, print the following items. If you do not, copy them on appropriate sized paper
