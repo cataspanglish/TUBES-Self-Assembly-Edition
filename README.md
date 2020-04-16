@@ -1,4 +1,4 @@
-# TUBES-Self-Assembly-Edition
+# TUBES - Self-Assembly Edition
 
 
 Tubes is a board game for kids aged roughly 8-12 which aims to show that the Internet is physical infrastructure, that data is copied into data centers and behaviour on the network is both observed and can have consequences.
