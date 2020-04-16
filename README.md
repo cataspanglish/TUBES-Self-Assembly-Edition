@@ -5,12 +5,12 @@ Tubes is a board game for kids aged roughly 8-12 which aims to show that the Int
 
 The original game has many pieces but this self assembly edition shows you how to assemble the game with materials you probably have at home. It is a game for six players, if there are less players each may take more than one avatar.
 
-# Time
+ **Playing Time**
 **20 mins +/-**
 
 
-# Game parts
-![Image](https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/tubesboard.JPG)
+** Game parts**
+![Image](https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/tubes.JPG)
 
 The original rules, images etc are available at 
 https://github.com/cataspanglish/TUBES--a-game-of-the-Internet
