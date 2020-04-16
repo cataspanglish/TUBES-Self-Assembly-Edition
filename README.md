@@ -9,7 +9,7 @@ The original game has many pieces but this self assembly edition shows you how t
 **20 mins +/-**
 
 
-** Game parts**
+**Game parts**
 ![Image](https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/tubes.JPG)
 
 The original rules, images etc are available at 
