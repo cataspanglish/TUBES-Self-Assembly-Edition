@@ -103,3 +103,5 @@ In the original game there are some other pieces, but they are not needed in thi
 Game conceived by Chris Pinchen, co-created and developed by Chris Pinchen, Jaiden Sreenivasan and Zygi Virsalis, students from the International School of Luxembourg.
 
 Tubes was co-created and developed in the Building a Better World Lab at International School of Luxembourg run by Tanya Irene and Stéphane Vermeulin, Technology Integration Facilitators, with the assistance of Chris Hewett.
+
+License https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/CC-by-nc-sa.md
