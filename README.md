@@ -1,5 +1,5 @@
 # TUBES-Self-Assembly-Edition
-=======
+
 
 Tubes is a board game for kids aged roughly 8-12 which aims to show that the Internet is physical infrastructure, that data is copied into data centers and behaviour on the network is both observed and can have consequences.
 
@@ -11,7 +11,7 @@ https://github.com/cataspanglish/TUBES--a-game-of-the-Internet
 Get together the items below and then play the game following the original rules.
 
 
-##ESSENTIAL ITEMS: Paper, pens/ coloured pencils, scissors, a coin, dice
+## ESSENTIAL ITEMS: Paper, pens/ coloured pencils, scissors, a coin, dice
 (get an adult to help you with cutting things with scissors!)
 
 If you have a printer, print the following items. If you do not, copy them on appropriate sized paper
@@ -26,7 +26,7 @@ Rules brochure: print, copy or refer online (EN/FR/DE)
 https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/Tubes-Game-rules-brochure.pdf
 
 
-Game Cards
+**Game Cards**
 
 6 x PowerUp cards (smiley)
 
