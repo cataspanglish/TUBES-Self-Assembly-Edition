@@ -11,7 +11,7 @@ https://github.com/cataspanglish/TUBES--a-game-of-the-Internet
 Get together the items below and then play the game following the original rules.
 
 
-** ESSENTIAL ITEMS: Paper, pens/ coloured pencils, scissors, a coin, dice**
+**ESSENTIAL ITEMS: Paper, pens/ coloured pencils, scissors, a coin, dice**
 (get an adult to help you with cutting things with scissors!)
 
 If you have a printer, print the following items. If you do not, copy them on appropriate sized paper
@@ -75,7 +75,7 @@ https://github.com/cataspanglish/TUBES--a-game-of-the-Internet/blob/master/missg
 
 
 
-Game pieces
+**Game pieces**
 
 Life cards
 In the original game there are 3 life pieces per player. You can replace them by making LIFE cards/papers
@@ -85,8 +85,6 @@ In the original game these are blue lego blocks. You can make cards/papers for t
 
 Data blocks & red/green counters
 In the original game there are many red/green data blocks and counters. These can be replaced by cards/papers of the appropriate colour or with words good or bad. You can create these as you need them the first time you play the game
-
-
 
 Avatars
 In the original game these are lego mini figs on a baseboard. You can use any piece from another board game or make your own. They can also be cards/paper with the name of the player
@@ -100,7 +98,7 @@ Other pieces
 In the original game there are some other pieces, but they are not needed in this version. Instead of using a baseboard for the lost life pieces, they can be placed in a pile.
 
 
-TUBES CREDITS
+**TUBES CREDITS**
 
 Game conceived by Chris Pinchen, co-created and developed by Chris Pinchen, Jaiden Sreenivasan and Zygi Virsalis, students from the International School of Luxembourg.
 
